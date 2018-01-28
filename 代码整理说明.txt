@@ -27,6 +27,7 @@
     4，代码（上面已经说过注意事项）
  
  注意：我以前写的case，全部删除，只保留上面部分。如果引用了别的url，保留。
+ 这个文件夹里的40题是两个例子，大家照着做就行
 
  最后，每个人把文件单独用微信发送给我，我好看看然后和大家单独商量这题怎么写。
  google excel：https://docs.google.com/spreadsheets/d/11hBK_BBnP-zQdRlwOuLnsUslMGt06cxHsvxaveTZNZo/edit?usp=sharing
