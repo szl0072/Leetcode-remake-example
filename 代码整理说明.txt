@@ -29,7 +29,7 @@
  注意：我以前写的case，全部删除，只保留上面部分。如果引用了别的url，保留。
  这个文件夹里的40题是两个例子，大家照着做就行
 
- 最后，每个人把文件单独用微信发送给我，我好看看然后和大家单独商量这题怎么写。
+ 最后，每个人把在github上传，merge到我设的新的leetcode-merge里，大家学一下怎么弄：https://www.zhihu.com/question/21682976
  google excel：https://docs.google.com/spreadsheets/d/11hBK_BBnP-zQdRlwOuLnsUslMGt06cxHsvxaveTZNZo/edit?usp=sharing
  把每个人想负责的题目，微信名写上。我会看大家完成题目的数量主动找大家要代码。不着急，二月一个月干这个，所以大家不用太在意这个事情，不要影响大家正常生活。
  谢谢～～！！～～
